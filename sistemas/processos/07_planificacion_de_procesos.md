@@ -1,0 +1,2 @@
+## Planificación de Procesos:
+- **El planificador** decide el proceso que se ejecutará a continuación. Puedes seguir diversos algoritmos para priorizar procesos, como el de torn (round robin) o los basats en la prioritat.

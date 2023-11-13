@@ -1,0 +1,2 @@
+## Definición de Procesos:
+- Un proceso es una instancia de una aplicación en ejecución. Puede ser tan simple como un pequeño script o tan complejo como una aplicación completa con diversas tareas y funcionalidades.

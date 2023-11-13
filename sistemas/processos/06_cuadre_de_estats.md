@@ -1,0 +1,2 @@
+## Cuadro de Estados:
+- **Los procesos** pasan de un estado a otro en respuesta a acontecimientos, con la llegada de una interrupción, una crisis al sistema o la finalización de una operación de entrada/sortida.
